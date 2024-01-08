@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Projects based on PHP & WP.
 - 📫 To reach me professionally contact options are given below (Links) :
 - Fiverr  : https://www.fiverr.com/users/workspaceshihab/
-- Whatsapp: wa.me/+8801625165355
 - Facebook: www.facebook.com/chill.shihab
+- Whatsapp: www.wa.me/+8801625165355
 
 <!---
 workspaceshihab/workspaceshihab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
