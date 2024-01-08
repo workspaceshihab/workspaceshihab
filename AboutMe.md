@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @workspaceshihab. You can call me Shihab.
+- 👋 Hi, I’m Hasan Ahamad Shihab. You can call me Shihab.
 - 👀 I’m interested in Programming Languages.
 - 🌱 I’m currently learning WordPress Development & PHP.
 - 💞️ I’m looking to collaborate on Projects based on PHP & WP.
